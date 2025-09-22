@@ -1,4 +1,3 @@
-/data/usuarios.txt
 /utils/__pycache__/
 *.pyc
 /data/compressed.lzw
