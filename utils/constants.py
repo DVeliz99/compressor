@@ -1,0 +1,2 @@
+MAX_BITS = 12
+CLEAR, EOI = 256, 257
