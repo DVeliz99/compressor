@@ -1,3 +1,9 @@
+## 0.2.1 (2025-09-22)
+
+### Refactor
+
+- **.gitignore**: Añadir pycache y decompressed.lzw
+
 ## 0.2.0 (2025-09-22)
 
 ### Feat
