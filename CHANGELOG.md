@@ -1,3 +1,13 @@
+## 0.3.2 (2025-09-22)
+
+### Refactor
+
+- **__init__**: Actualizar imports
+
+### Perf
+
+- **__init__.py**: Actualización de imports
+
 ## 0.3.1 (2025-09-22)
 
 ### Refactor
