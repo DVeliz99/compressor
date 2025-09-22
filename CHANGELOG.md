@@ -1,3 +1,9 @@
+## 0.2.0 (2025-09-22)
+
+### Feat
+
+- **compressor.py**: añadir método de compresión lzw (#4)
+
 ## 0.1.0 (2025-09-22)
 
 ### Feat
