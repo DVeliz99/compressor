@@ -1,3 +1,9 @@
+## 0.3.1 (2025-09-22)
+
+### Refactor
+
+- **.gitignore**: Eliminar archivos ignorados del repositorio
+
 ## 0.3.0 (2025-09-22)
 
 ### Feat
