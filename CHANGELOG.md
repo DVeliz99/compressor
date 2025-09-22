@@ -1,3 +1,9 @@
+## 0.3.0 (2025-09-22)
+
+### Feat
+
+- **decompressor.py**: decompresor añadido (#5)
+
 ## 0.2.2 (2025-09-22)
 
 ### Refactor
